@@ -21,5 +21,3 @@ http://103.106.2.149:13456/btv.m3u8
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="btvw" tvg-name="BTV World" tvg-logo="" group-title="Bangla",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="" group-title="Bangla",Channel i
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
