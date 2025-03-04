@@ -3,13 +3,13 @@
 http://10.99.99.99:8080/roarzone/bk/37/embed.html?mute=false&autoplay=true&volume=70&token=7e374e5f521487b188502b3d39f5b4bab361bba4-f968bf5e26aea40d433945136c738239-1741102049-1741080449#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="" group-title="Bangla",ETV
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports
-http://10.10.10.2/live/fnffeed1002/index.m3u8
+http://10.10.10.2/live/fnf001/index.m3u8
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports
-http://10.99.99.99:8080/roarzone/bk/102/tracks-v1a1/mono.m3u8?token=fa050bdf373b0c178e8d02973a14964e8fbde704-9257a5fac20a4804705ec19494841c76-1727447711-1727426111
+http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports
-http://live.flixhub.net/hls/t-sports.m3u8
+http://10.10.10.2/live/fnf003/index.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="G TV" tvg-logo="" group-title="Bangla",G TV
-http://113.212.111.246:8080/hls/col12.m3u8
+http://10.10.10.2/live/fnf004/index.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="G TV" tvg-logo="" group-title="Bangla",G TV
 http://10.99.99.99:8080/roarzone/bk/1/tracks-v1a1/mono.m3u8?token=fa050bdf373b0c178e8d02973a14964e8fbde704-9257a5fac20a4804705ec19494841c76-1727447711-1727426111
 #EXTINF:-1 tvg-id="gtv" tvg-name="G TV" tvg-logo="" group-title="Bangla",G TV
